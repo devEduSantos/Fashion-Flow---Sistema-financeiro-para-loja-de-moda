@@ -1,6 +1,17 @@
-Projeto Fullstack Java + Angular
+Fashion Finance System
 
-Sistema de controle financeiro para loja de moda.
+Sistema fullstack para gestão financeira de uma loja de moda.
+
+Tecnologias utilizadas:
+
+Backend
+- Java
+- Spring Boot
+- JPA / Hibernate
+- PostgreSQL
+
+Frontend
+- Angular
 
 Funcionalidades:
 
@@ -9,3 +20,5 @@ Funcionalidades:
 ✔ Controle de estoque
 ✔ Dashboard financeiro
 ✔ Relatórios
+
+Projeto desenvolvido para estudo de arquitetura fullstack.
